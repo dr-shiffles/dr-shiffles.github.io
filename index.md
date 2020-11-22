@@ -15,4 +15,5 @@ I am working towards typing up my notes from my various Control System classes t
 I run a YouTube Channel where I share my drone footage, travel videos, and namely my gameplay videos of Microsoft Flight Simulator 2020. I am part of the RaidForceOne group, a discord community of flgiht simmers, and often have group flights. 
 
 # Resume
-Under construction
+### Design Engineer
+Sumitomo Electric Wiring Systems, Inc. 
