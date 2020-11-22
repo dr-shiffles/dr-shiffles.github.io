@@ -8,8 +8,8 @@ Welcome to my website, which I will be using as an online resume and also a plac
 
 # My projects
 
-### Shifat's Controls Notes
-I am working towards typing up my notes from my various Control System classes that I took during my studies. They are being created and will be updating soon.
+### Shifat's Engineering Notes
+Taking [Aerostudents](http://www.aerostudents.com/) as an inspiration, I have decided to clean up and type up my notes from my various engineering courses that I have taken during my studies. They are being created and will be updating soon. Please not some of them are courses that I have yet to take, but I plan on making notes for them. 
 
 ### PotatoEngineer - YouTube Channel
 I run a YouTube Channel where I share my drone footage, travel videos, and namely my gameplay videos of Microsoft Flight Simulator 2020. I am part of the RaidForceOne group, a discord community of flgiht simmers, and often have group flights. 
