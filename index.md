@@ -15,5 +15,4 @@ I am working towards typing up my notes from my various Control System classes t
 I run a YouTube Channel where I share my drone footage, travel videos, and namely my gameplay videos of Microsoft Flight Simulator 2020. I am part of the RaidForceOne group, a discord community of flgiht simmers, and often have group flights. 
 
 # Resume
-### Design Engineer
-Sumitomo Electric Wiring Systems, Inc. 
+[Click here](taushif_resume_gh.pdf) to download a copy of my latest resume. Feel free to contact me via LinkedIn (provided in the resume) if you would like to reach out to me about job opportunities. 
